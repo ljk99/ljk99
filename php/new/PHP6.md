@@ -1,4 +1,4 @@
-[PHP文档归类](../test.md) > [PHP](PHP.md)
+[PHP资料归类索引](../README.md) > [PHP](PHP.md)
 ====
 - [PHP实现邮件发送（SMTP server邮件服务器）](http://jkwz.applinzi.com/ittc/7095441308930016272.html#PHP%E5%AE%9E%E7%8E%B0%E9%82%AE%E4%BB%B6%E5%8F%91%E9%80%81%EF%BC%88SMTP+server%E9%82%AE%E4%BB%B6%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%89) 180424  
 - [PHP下载文件](http://jkwz.applinzi.com/ittc/7095184924795733002.html#PHP%E4%B8%8B%E8%BD%BD%E6%96%87%E4%BB%B6) 180423 *1* 

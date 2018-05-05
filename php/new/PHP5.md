@@ -1,4 +1,4 @@
-[PHP文档归类](../test.md) > [PHP](PHP.md)
+[PHP资料归类索引](../README.md) > [PHP](PHP.md)
 ====
 - [关于PHP在开发模式和产品模式下的报错处理](http://jkwz.applinzi.com/ittc/7094005763796370449.html#%E5%85%B3%E4%BA%8EPHP%E5%9C%A8%E5%BC%80%E5%8F%91%E6%A8%A1%E5%BC%8F%E5%92%8C%E4%BA%A7%E5%93%81%E6%A8%A1%E5%BC%8F%E4%B8%8B%E7%9A%84%E6%8A%A5%E9%94%99%E5%A4%84%E7%90%86) 180420  
 - [JavaScript和Underscore.js在PHP中输入方法](http://jkwz.applinzi.com/ittc/7093955169966621712.html#JavaScript%E5%92%8CUnderscore.js%E5%9C%A8PHP%E4%B8%AD%E8%BE%93%E5%85%A5%E6%96%B9%E6%B3%95) 180420  

@@ -1,4 +1,4 @@
-[PHP文档归类](../test.md) > [PHP](PHP.md)
+[PHP资料归类索引](../README.md) > [PHP](PHP.md)
 ====
 - [全球10大最常用的编程语言，PHP第五，Java第三，Python第二](http://jkwz.applinzi.com/ittc/7090394521735267339.html#%E5%85%A8%E7%90%8310%E5%A4%A7%E6%9C%80%E5%B8%B8%E7%94%A8%E7%9A%84%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%EF%BC%8CPHP%E7%AC%AC%E4%BA%94%EF%BC%8CJava%E7%AC%AC%E4%B8%89%EF%BC%8CPython%E7%AC%AC%E4%BA%8C) 180416 *8* 
 - [辽宁优就业：PHP面试题基础版](http://jkwz.applinzi.com/ittc/7092598239578817542.html#%E8%BE%BD%E5%AE%81%E4%BC%98%E5%B0%B1%E4%B8%9A%EF%BC%9APHP%E9%9D%A2%E8%AF%95%E9%A2%98%E5%9F%BA%E7%A1%80%E7%89%88) 180416  

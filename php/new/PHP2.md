@@ -1,4 +1,4 @@
-[PHP文档归类](../test.md) > [PHP](PHP.md)
+[PHP资料归类索引](../README.md) > [PHP](PHP.md)
 ====
 - [【归档】获取当前所在位置并计算当前位置日出日落时间(JS+PHP)](http://jkwz.applinzi.com/ittc/7089207560072856587.html#%E3%80%90%E5%BD%92%E6%A1%A3%E3%80%91%E8%8E%B7%E5%8F%96%E5%BD%93%E5%89%8D%E6%89%80%E5%9C%A8%E4%BD%8D%E7%BD%AE%E5%B9%B6%E8%AE%A1%E7%AE%97%E5%BD%93%E5%89%8D%E4%BD%8D%E7%BD%AE%E6%97%A5%E5%87%BA%E6%97%A5%E8%90%BD%E6%97%B6%E9%97%B4%28JS%2BPHP%29) 180407  
 - [laravel系列之php基础面向对象概念](http://jkwz.applinzi.com/ittc/7088990979032089610.html#laravel%E7%B3%BB%E5%88%97%E4%B9%8Bphp%E5%9F%BA%E7%A1%80%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E6%A6%82%E5%BF%B5) 180406 *1* 

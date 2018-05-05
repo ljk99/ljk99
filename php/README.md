@@ -1,4 +1,4 @@
-[PHP资料归类索引](../README.md)
+[PHP资料归类索引](README.md)
 ====
 * 文档自动多重归类索引 multi-classification
 * 网上的资料都是零星杂乱的，收集到一些资料进行多重归类并索引，以方便阅读。

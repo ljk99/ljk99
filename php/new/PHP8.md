@@ -1,4 +1,4 @@
-[PHP文档归类](../test.md) > [PHP](PHP.md)
+[PHP资料归类索引](../README.md) > [PHP](PHP.md)
 ====
 - [PHP多线程开发的坑](http://jkwz.applinzi.com/ittc/7096786040973165584.html#PHP%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%BC%80%E5%8F%91%E7%9A%84%E5%9D%91) 180427 *4* 
 - [Python 人气王，JS 比 Java 更受企业青睐，PHP不再是最好的语言](http://jkwz.applinzi.com/ittc/7096785286690505734.html#Python+%E4%BA%BA%E6%B0%94%E7%8E%8B%EF%BC%8CJS+%E6%AF%94+Java+%E6%9B%B4%E5%8F%97%E4%BC%81%E4%B8%9A%E9%9D%92%E7%9D%90%EF%BC%8CPHP%E4%B8%8D%E5%86%8D%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E8%AF%AD%E8%A8%80) 180427  

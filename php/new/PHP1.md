@@ -1,4 +1,4 @@
-[PHP文档归类](../test.md) > [PHP](PHP.md)
+[PHP资料归类索引](../README.md) > [PHP](PHP.md)
 ====
 - [天津PHP培训，学习PHP需要哪些基础?](http://jkwz.applinzi.com/ittc/7088146368009077776.html#%E5%A4%A9%E6%B4%A5PHP%E5%9F%B9%E8%AE%AD%EF%BC%8C%E5%AD%A6%E4%B9%A0PHP%E9%9C%80%E8%A6%81%E5%93%AA%E4%BA%9B%E5%9F%BA%E7%A1%80%3F) 180404  
 - [PHP中的HTTP的头注入漏洞浅谈](http://jkwz.applinzi.com/ittc/7088139341518078986.html#PHP%E4%B8%AD%E7%9A%84HTTP%E7%9A%84%E5%A4%B4%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E%E6%B5%85%E8%B0%88) 180404  
