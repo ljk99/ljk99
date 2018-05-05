@@ -1,4 +1,4 @@
-[PHP文档归类](../test.md) > [PHP](PHP.md)
+[PHP资料归类索引](../README.md) > [PHP](PHP.md)
 ====
 - [JAVA就是比PHP高档？](http://jkwz.applinzi.com/ittc/7097788674131624970.html#JAVA%E5%B0%B1%E6%98%AF%E6%AF%94PHP%E9%AB%98%E6%A1%A3%EF%BC%9F) 180430 *2* 
 - [ThinkPHP5.0数据库CURD的读取（Read）操作](http://jkwz.applinzi.com/ittc/7097524429791953936.html#ThinkPHP5.0%E6%95%B0%E6%8D%AE%E5%BA%93CURD%E7%9A%84%E8%AF%BB%E5%8F%96%EF%BC%88Read%EF%BC%89%E6%93%8D%E4%BD%9C) 180429  
