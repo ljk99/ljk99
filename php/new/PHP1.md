@@ -1,6 +1,5 @@
-- [最方便的PHP+MYSQL集成开发环境 phpstudy2014](http://jkwz.applinzi.com/ittc/7088237807594374154.html#%E6%9C%80%E6%96%B9%E4%BE%BF%E7%9A%84PHP%2BMYSQL%E9%9B%86%E6%88%90%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83+phpstudy2014) 180404 *5* 
-- [PHP常用函数，记录下](http://jkwz.applinzi.com/ittc/7088221129993094155.html#PHP%E5%B8%B8%E7%94%A8%E5%87%BD%E6%95%B0%EF%BC%8C%E8%AE%B0%E5%BD%95%E4%B8%8B) 180404  
-- [天津PHP培训，学习PHP需要哪些基础？](http://jkwz.applinzi.com/ittc/7088146339609445382.html#%E5%A4%A9%E6%B4%A5PHP%E5%9F%B9%E8%AE%AD%EF%BC%8C%E5%AD%A6%E4%B9%A0PHP%E9%9C%80%E8%A6%81%E5%93%AA%E4%BA%9B%E5%9F%BA%E7%A1%80%EF%BC%9F) 180404  
+[PHP文档归类](../test.md) > [PHP](PHP.md)
+====
 - [天津PHP培训，学习PHP需要哪些基础?](http://jkwz.applinzi.com/ittc/7088146368009077776.html#%E5%A4%A9%E6%B4%A5PHP%E5%9F%B9%E8%AE%AD%EF%BC%8C%E5%AD%A6%E4%B9%A0PHP%E9%9C%80%E8%A6%81%E5%93%AA%E4%BA%9B%E5%9F%BA%E7%A1%80%3F) 180404  
 - [PHP中的HTTP的头注入漏洞浅谈](http://jkwz.applinzi.com/ittc/7088139341518078986.html#PHP%E4%B8%AD%E7%9A%84HTTP%E7%9A%84%E5%A4%B4%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E%E6%B5%85%E8%B0%88) 180404  
 - [传智播客上海校区PHP基础班开班典礼成功举办](http://jkwz.applinzi.com/ittc/7088086385741530128.html#%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%E4%B8%8A%E6%B5%B7%E6%A0%A1%E5%8C%BAPHP%E5%9F%BA%E7%A1%80%E7%8F%AD%E5%BC%80%E7%8F%AD%E5%85%B8%E7%A4%BC%E6%88%90%E5%8A%9F%E4%B8%BE%E5%8A%9E) 180404  
@@ -13,4 +12,4 @@
 - [为什么要选择PHP卓越计划？](http://jkwz.applinzi.com/ittc/7087326814014014474.html#%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E9%80%89%E6%8B%A9PHP%E5%8D%93%E8%B6%8A%E8%AE%A1%E5%88%92%EF%BC%9F) 180402 *1* 
 
 
- [上页](PHP2.md)           (1/7)
+ [上页](PHP2.md)           (1/9)

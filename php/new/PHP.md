@@ -1,6 +1,6 @@
-[PHP](PHP.md)
-====
-- [JAVA就是比PHP高档？](http://jkwz.applinzi.com/ittc/7097788674131624970.html#JAVA%E5%B0%B1%E6%98%AF%E6%AF%94PHP%E9%AB%98%E6%A1%A3%EF%BC%9F) 180430 *2* 
+[PHP文档归类](../test.md) > [PHP](PHP.md)
+====
+- [JAVA就是比PHP高档？](http://jkwz.applinzi.com/ittc/7097788674131624970.html#JAVA%E5%B0%B1%E6%98%AF%E6%AF%94PHP%E9%AB%98%E6%A1%A3%EF%BC%9F) 180430 *2* 
 - [ThinkPHP5.0数据库CURD的读取（Read）操作](http://jkwz.applinzi.com/ittc/7097524429791953936.html#ThinkPHP5.0%E6%95%B0%E6%8D%AE%E5%BA%93CURD%E7%9A%84%E8%AF%BB%E5%8F%96%EF%BC%88Read%EF%BC%89%E6%93%8D%E4%BD%9C) 180429  
 - [php://input与php://output简单介绍](http://jkwz.applinzi.com/ittc/7097287585728824336.html#php%3A%2F%2Finput%E4%B8%8Ephp%3A%2F%2Foutput%E7%AE%80%E5%8D%95%E4%BB%8B%E7%BB%8D) 180429  
 - [5年码农告诉你，这些超好用的php编辑器/IDE/开发工具](http://jkwz.applinzi.com/ittc/7097333578520331270.html#5%E5%B9%B4%E7%A0%81%E5%86%9C%E5%91%8A%E8%AF%89%E4%BD%A0%EF%BC%8C%E8%BF%99%E4%BA%9B%E8%B6%85%E5%A5%BD%E7%94%A8%E7%9A%84php%E7%BC%96%E8%BE%91%E5%99%A8%2FIDE%2F%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7) 180429 *12* 

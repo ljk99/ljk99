@@ -1,16 +1,15 @@
-- [「软件资料」-「技术分享」-PHP集成环境无法使用MYSQL命令问题](http://jkwz.applinzi.com/ittc/7096662070005335057.html#%E3%80%8C%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%96%99%E3%80%8D-%E3%80%8C%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB%E3%80%8D-PHP%E9%9B%86%E6%88%90%E7%8E%AF%E5%A2%83%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8MYSQL%E5%91%BD%E4%BB%A4%E9%97%AE%E9%A2%98) 180427  
-- [前端的HTML、CSS、JavaScript、PHP、 MySQL 的学习顺序是什么？](http://jkwz.applinzi.com/ittc/7096619453678879760.html#%E5%89%8D%E7%AB%AF%E7%9A%84HTML%E3%80%81CSS%E3%80%81JavaScript%E3%80%81PHP%E3%80%81+MySQL+%E7%9A%84%E5%AD%A6%E4%B9%A0%E9%A1%BA%E5%BA%8F%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F) 180427 *1* 
-- [php导出xls格式的文件](http://jkwz.applinzi.com/ittc/7096554295971546119.html#php%E5%AF%BC%E5%87%BAxls%E6%A0%BC%E5%BC%8F%E7%9A%84%E6%96%87%E4%BB%B6) 180427  
-- [PHP导出csv格式的文件](http://jkwz.applinzi.com/ittc/7096551356309701649.html#PHP%E5%AF%BC%E5%87%BAcsv%E6%A0%BC%E5%BC%8F%E7%9A%84%E6%96%87%E4%BB%B6) 180427  
-- [31岁去学习java和php，这还来得及吗？](http://jkwz.applinzi.com/ittc/7096320330803184657.html#31%E5%B2%81%E5%8E%BB%E5%AD%A6%E4%B9%A0java%E5%92%8Cphp%EF%BC%8C%E8%BF%99%E8%BF%98%E6%9D%A5%E5%BE%97%E5%8F%8A%E5%90%97%EF%BC%9F) 180426  
-- [冒泡排序在JAVA、C以及PHP中的实现详解](http://jkwz.applinzi.com/ittc/7095931638167110672.html#%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F%E5%9C%A8JAVA%E3%80%81C%E4%BB%A5%E5%8F%8APHP%E4%B8%AD%E7%9A%84%E5%AE%9E%E7%8E%B0%E8%AF%A6%E8%A7%A3) 180426  
-- [Ajax PHP JavaScript MySQL实现简易的无刷新在线聊天室](http://jkwz.applinzi.com/ittc/7096221707595678726.html#Ajax+PHP+JavaScript+MySQL%E5%AE%9E%E7%8E%B0%E7%AE%80%E6%98%93%E7%9A%84%E6%97%A0%E5%88%B7%E6%96%B0%E5%9C%A8%E7%BA%BF%E8%81%8A%E5%A4%A9%E5%AE%A4) 180426 *3* 
-- [PHP导入xls格式文件](http://jkwz.applinzi.com/ittc/7096184321495008266.html#PHP%E5%AF%BC%E5%85%A5xls%E6%A0%BC%E5%BC%8F%E6%96%87%E4%BB%B6) 180426 *1* 
-- [PHP导入CSV格式的文件](http://jkwz.applinzi.com/ittc/7096183611982349322.html#PHP%E5%AF%BC%E5%85%A5CSV%E6%A0%BC%E5%BC%8F%E7%9A%84%E6%96%87%E4%BB%B6) 180426  
-- [PHP开发框架流行度排名：Laravel居首](http://jkwz.applinzi.com/ittc/7095945837605815302.html#PHP%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B6%E6%B5%81%E8%A1%8C%E5%BA%A6%E6%8E%92%E5%90%8D%EF%BC%9ALaravel%E5%B1%85%E9%A6%96) 180425 *15* 
-- [php中：:class 关键字](http://jkwz.applinzi.com/ittc/7095938199857923079.html#php%E4%B8%AD%EF%BC%9A%3Aclass+%E5%85%B3%E9%94%AE%E5%AD%97) 180425  
-- [PHP is_file、file_exists、is_dir总结](http://jkwz.applinzi.com/ittc/7095843993890063371.html#PHP+is_file%E3%80%81file_exists%E3%80%81is_dir%E6%80%BB%E7%BB%93) 180425  
-- [PHP程序开发的四大框架](http://jkwz.applinzi.com/ittc/7095830564995335179.html#PHP%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E7%9A%84%E5%9B%9B%E5%A4%A7%E6%A1%86%E6%9E%B6) 180425 *6* 
+[PHP文档归类](../test.md) > [PHP](PHP.md)
+====
+- [PHP实现邮件发送（SMTP server邮件服务器）](http://jkwz.applinzi.com/ittc/7095441308930016272.html#PHP%E5%AE%9E%E7%8E%B0%E9%82%AE%E4%BB%B6%E5%8F%91%E9%80%81%EF%BC%88SMTP+server%E9%82%AE%E4%BB%B6%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%89) 180424  
+- [PHP下载文件](http://jkwz.applinzi.com/ittc/7095184924795733002.html#PHP%E4%B8%8B%E8%BD%BD%E6%96%87%E4%BB%B6) 180423 *1* 
+- [PHP压缩文件夹下的文件](http://jkwz.applinzi.com/ittc/7095172740405527558.html#PHP%E5%8E%8B%E7%BC%A9%E6%96%87%E4%BB%B6%E5%A4%B9%E4%B8%8B%E7%9A%84%E6%96%87%E4%BB%B6) 180423  
+- [php移动文件到指定的文件夹下](http://jkwz.applinzi.com/ittc/7095146057057174538.html#php%E7%A7%BB%E5%8A%A8%E6%96%87%E4%BB%B6%E5%88%B0%E6%8C%87%E5%AE%9A%E7%9A%84%E6%96%87%E4%BB%B6%E5%A4%B9%E4%B8%8B) 180423  
+- [Laravel框架是最好用的PHP框架的五个原因你知道吗？](http://jkwz.applinzi.com/ittc/7094756251047298054.html#Laravel%E6%A1%86%E6%9E%B6%E6%98%AF%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84PHP%E6%A1%86%E6%9E%B6%E7%9A%84%E4%BA%94%E4%B8%AA%E5%8E%9F%E5%9B%A0%E4%BD%A0%E7%9F%A5%E9%81%93%E5%90%97%EF%BC%9F) 180422 *9* 
+- [windows下定时任务，通过.bat文件，运行PHP文件来实现](http://jkwz.applinzi.com/ittc/7094743368934622218.html#windows%E4%B8%8B%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1%EF%BC%8C%E9%80%9A%E8%BF%87.bat%E6%96%87%E4%BB%B6%EF%BC%8C%E8%BF%90%E8%A1%8CPHP%E6%96%87%E4%BB%B6%E6%9D%A5%E5%AE%9E%E7%8E%B0) 180422  
+- [想赚大钱必学C语言，想做黑客红客必学C语言，php还是最好吗？](http://jkwz.applinzi.com/ittc/7094418605926253575.html#%E6%83%B3%E8%B5%9A%E5%A4%A7%E9%92%B1%E5%BF%85%E5%AD%A6C%E8%AF%AD%E8%A8%80%EF%BC%8C%E6%83%B3%E5%81%9A%E9%BB%91%E5%AE%A2%E7%BA%A2%E5%AE%A2%E5%BF%85%E5%AD%A6C%E8%AF%AD%E8%A8%80%EF%BC%8Cphp%E8%BF%98%E6%98%AF%E6%9C%80%E5%A5%BD%E5%90%97%EF%BC%9F) 180421 *2* 
+- [PHP+Jcrop实现截取图片上传功能](http://jkwz.applinzi.com/ittc/7094197963985519623.html#PHP%2BJcrop%E5%AE%9E%E7%8E%B0%E6%88%AA%E5%8F%96%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0%E5%8A%9F%E8%83%BD) 180420  
+- [php_curl抓取加密网站内容分享](http://jkwz.applinzi.com/ittc/7094118903028646919.html#php_curl%E6%8A%93%E5%8F%96%E5%8A%A0%E5%AF%86%E7%BD%91%E7%AB%99%E5%86%85%E5%AE%B9%E5%88%86%E4%BA%AB) 180420  
+- [PHP程序员常跳的坑，来看看你跳过吗？](http://jkwz.applinzi.com/ittc/7094112156813624337.html#PHP%E7%A8%8B%E5%BA%8F%E5%91%98%E5%B8%B8%E8%B7%B3%E7%9A%84%E5%9D%91%EF%BC%8C%E6%9D%A5%E7%9C%8B%E7%9C%8B%E4%BD%A0%E8%B7%B3%E8%BF%87%E5%90%97%EF%BC%9F) 180420 *9* 
 
 
- [上页](PHP.md) [下页](PHP5.md)          (6/7)
+ [上页](PHP7.md) [下页](PHP5.md)          (6/9)
